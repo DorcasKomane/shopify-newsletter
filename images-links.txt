@@ -1,0 +1,24 @@
+
+Logo
+<img src="https://i.ibb.co/nf7p436/shopify-logo.png" alt="shopify-logo" border="0">
+
+Banner Image
+<img src="https://i.ibb.co/x1CrSqP/shopify-1.png" alt="shopify-1" border="0">
+
+
+Trending-Articles -mages
+
+//img1
+<img src="https://i.ibb.co/301VpZd/shopify-2.png" alt="shopify-2" border="0">
+
+//img2
+<img src="https://i.ibb.co/6tTvDxT/shopify-3.png" alt="shopify-3" border="0">
+
+//img3
+<img src="https://i.ibb.co/VxW4GYb/shopify-4.png" alt="shopify-4" border="0">
+
+//img4
+<img src="https://i.ibb.co/dP0vjrv/shopify-5.png" alt="shopify-5" border="0">
+
+Footer Image
+<img src="https://i.ibb.co/S58vLkd/shopify-6.png" alt="shopify-6" border="0">
