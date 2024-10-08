@@ -3,7 +3,9 @@ A replication of a Shopify Digest email newsletter.
 
 View **live project** here: [https://shopify-newsletter.netlify.app](https://shopify-newsletter.netlify.app)
 
-![screenshot of shopify digest email newsletter]([https://i.ibb.co/898QHDY/img-newsletter.png])
+## Screenshot
+
+![]([https://i.ibb.co/898QHDY/img-newsletter.png])
 
 ## How The App Was Made
 Tech stack used: HTML & CSS
