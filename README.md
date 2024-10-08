@@ -1,16 +1,17 @@
 # shopify-newsletter
-A replication of a Shopify Digest email newsletter.
+A recreation of a Shopify Digest email newsletter.
 
-View **live project** here: [https://shopify-newsletter.netlify.app](https://shopify-newsletter.netlify.app)
 
 ## Screenshot
 
 ![](https://i.ibb.co/898QHDY/img-newsletter.png)
 
+
 ### Links
 
 - View **code** here: [https://github.com/DorcasKomane/shopify-newsletter](https://github.com/DorcasKomane/shopify-newsletter)
 - View **live project** here: [https://shopify-newsletter.netlify.app](https://shopify-newsletter.netlify.app)
+
 
 ## My process
 
