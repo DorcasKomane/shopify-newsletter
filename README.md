@@ -10,9 +10,6 @@ View **live project** here: [https://shopify-newsletter.netlify.app](https://sho
 Tech stack used: HTML & CSS
 
 ## Lessons Learned
-- how to work with CSS tables.
-- how to get user input and return a response using an API.
-- how to retrieve data using **fetch()**.
-- how to use a loop to iterate through an object and retreive specific information.
-- how create HTML elements using JavaScript.
-- how to present the retrieved in a table using Bootstrap.
+- Developed a better understanding of table-based layouts for email design to ensure cross-client compatibility.
+- Encountered challenges with consistent rendering across some mail clients and adjusted styles accordingly.
+- Learned to test email compatibility with testi.at [testi.at](https://shopify-newsletter.netlify.app)
