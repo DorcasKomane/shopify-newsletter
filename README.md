@@ -22,4 +22,4 @@ A recreation of a Shopify Digest email newsletter.
 ### Lessons Learned
 - Developed a better understanding of table-based layouts for email design to ensure cross-client compatibility.
 - Encountered challenges with consistent rendering across some mail clients and adjusted styles accordingly.
-- Learned to test email compatibility with [testi.at](https://shopify-newsletter.netlify.app) tool.
+- Learned to test email compatibility with [testi.at](https://testi.at/) tool.
